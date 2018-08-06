@@ -1,5 +1,13 @@
 [
 	{
+		"id": "http://metacash.it",
+		"comment": "Metacash Explorer "
+	},
+	{
+		"id": "https://metacash.online",
+		"comment": "Metacash "
+	},
+	{
 		"id": "https://aragon.one",
 		"comment": "Aragon "
 	},
